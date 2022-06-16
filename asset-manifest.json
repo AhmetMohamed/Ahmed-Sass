@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ahmed-Sass/static/css/main.1f8fc96c.css",
+    "main.js": "/Ahmed-Sass/static/js/main.cc58b1f8.js",
+    "static/media/laptop.jpg": "/Ahmed-Sass/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Ahmed-Sass/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Ahmed-Sass/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Ahmed-Sass/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Ahmed-Sass/index.html",
+    "main.1f8fc96c.css.map": "/Ahmed-Sass/static/css/main.1f8fc96c.css.map",
+    "main.cc58b1f8.js.map": "/Ahmed-Sass/static/js/main.cc58b1f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8fc96c.css",
+    "static/js/main.cc58b1f8.js"
+  ]
+}
